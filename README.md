@@ -1,2 +1,10 @@
 # CEP146_Group01_Project02
-Project Presentation: Artificial Intelligence Current Event Topics
+---
+
+# AI'S IMPACT ON EMPLOYMENT AND JOB DISPLACEMENT
+
+## Team Members
+- Joy Mwathi
+- Mark Soosaipillai
+- Juan Carlos Agustin
+- Mahsa Beigi
