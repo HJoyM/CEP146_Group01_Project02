@@ -8,3 +8,9 @@
 - New roles: AI specialists, data analysts, ethics experts
 - Jobs are evolving - require tech & creative skills
 - Challenge: job displacement - need for reskilling
+
+### Focus points
+1. Role shift
+2. New job categories
+3. Skill evolution
+4. Economic growth
