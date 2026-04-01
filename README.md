@@ -1,16 +1,10 @@
-## Research Notes: Job creation
+# CEP146_Group01_Project02
+---
 
-[Source 1](https://www.innopharmaeducation.com/blog/the-impact-of-ai-on-job-roles-workforce-and-employment-what-you-need-to-know)
+# AI'S IMPACT ON EMPLOYMENT AND JOB DISPLACEMENT
 
-### AI & Job Creation (Key Points)
-- AI is creating new jobs while automating routine tasks
-- Expected 20–50 million new jobs by 2030
-- New roles: AI specialists, data analysts, ethics experts
-- Jobs are evolving - require tech & creative skills
-- Challenge: job displacement - need for reskilling
-
-### Focus points
-1. Role shift
-2. New job categories
-3. Skill evolution
-4. Economic growth
+## Team Members
+- Joy Mwathi
+- Mark Soosaipillai
+- Juan Carlos Agustin
+- Mahsa Beigi
