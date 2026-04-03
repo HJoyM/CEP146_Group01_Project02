@@ -1,10 +1,13 @@
 # CEP146_Group01_Project02
 ---
-
-# AI'S IMPACT ON EMPLOYMENT AND JOB DISPLACEMENT
-
 ## Team Members
 - Joy Mwathi
 - Mark Soosaipillai
 - Juan Carlos Agustin
 - Mahsa Beigi
+---
+# AI'S IMPACT ON EMPLOYMENT AND JOB DISPLACEMENT
+
+An overview of how AI is transforming employment through job creation and displacement, highlighting its impact on industries, the evolving workforce, and the future of work.
+
+### Youtube Link
